@@ -5,11 +5,46 @@
         "email": "pangaruystanley@gmail.com",
         "phone": "+63 9219568856 | ",
         "address": "Lopez, Quezon, PH 4316",
-        "provider1": "Provider: Facebook",
-        "url1": "URL: https://facebook.com/pangaruystanley",
-        "provider2": "Provider: GitHub",
-        "username2": "Username: Stanley John O. Pangaruy",
-        "url2": "URL: https://github.com/StanleyPangaruy"
+
+        "profile": "A computer enginnering student seeking to use knowledge in",
+        "profile1": "entry-level programming and technology experience in the role",
+        "profile2": "of intern at Riot Games. I believe my commitment and relevant ",
+        "profile3": "study makes me fit for this postion as this will help me",
+        "profile4": "connect my passion for games to a meaningful career.",
+
+        "skill": "-Pyhton Programming (Entry-Level)",
+        "skill1": "-Microsoft Office", 
+        "skill2": "-English (fluent)",
+        "skill3": "-Time Management",
+        "skill4": "-Adaptability and Flexibility",
+        "skill5": "-Good Listener",
+
+        "xp1": "LITE 2021 - Pyhton Programming/ PUP ACCESS/ Webinar",
+        "xp1a": "-Attendee, participated on a hands-on coding activity that utilizes",
+        "xp1b": "loops and conditional statements on the program.",
+        "xp2": "Robotics Seminar/ LNCHS Science Dep./ Lopez, Quezon",
+        "xp2a": "-Attendee, participated on a hands-on coding activity about",
+        "xp2b": "replicating the circuit shown on the module and used arduino to",   
+        "xp2c": "create interactive electronic objects.",
+
+        "attain": "High School Diploma - Graduated with High Honors",
+        "school": "Lopez National Comprehensive High School",
+        "schoolp": "Lopez Quezon",
+        "sy": "2015 - 2021",
+
+        "username1": "Stanley Pangaruy",
+        "url1": "https://facebook.com/pangaruystanley",
+        "username2": "Stanley John O. Pangaruy",
+        "url2": "https://github.com/StanleyPangaruy",
+        "username3": "Stanley P.",
+        "url3": "https://twitter.com/pangaruystan",
+        
+        "inter1": "General Computer Science",
+        "inter2": "Game Development",
+        "inter3": "Video Games",
+        "inter4": "Science",
+        "inter5": "Bastketball",
+        "inter6": "Statistics"
     }
     ]
 }   
